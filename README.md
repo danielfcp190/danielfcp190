@@ -1,15 +1,15 @@
-Name: Daniel Ferreira da Costa Pinto  
-Contact: +55 (12) 99784-5920  
-E-mail: danielfcp190@gmail.com  
-Location: Sao Jose dos Campos, Sao Paulo, Brazil  
-Age: 29 years old  
-Citizenship: American and Brazilian 
+<strong>Name:</strong> Daniel Ferreira da Costa Pinto  
+<strong>Contact:</strong> +55 (12) 99784-5920  
+<strong>E-mail:</strong> danielfcp190@gmail.com  
+<strong>Location:</strong> Sao Jose dos Campos, Sao Paulo, Brazil  
+<strong>Age:</strong> 29 years old  
+<strong>Citizenship:</strong> American and Brazilian 
 
-Goal: Achieve a junior development job position  
-Knowledge: HTML5, CSS3, Javascript, GIT  
-Next steps: React, NodeJS 
+<strong>Goal:</strong> Achieve a junior development job position  
+<strong>Knowledge:</strong> HTML5, CSS3, Javascript, GIT  
+<strong>Next steps:</strong> React, NodeJS 
 
-More information:  
+<strong>More information:</strong>  
 Graduated in Business Administration - Insper, 2015  
 I've worked with restaurant management since graduation  
 Advanced English, Intermediate Spanish and Fluent Portuguese    
