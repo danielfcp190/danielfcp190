@@ -6,8 +6,8 @@
 <strong>Citizenship:</strong> American and Brazilian 
 
 <strong>Goal:</strong> Achieve a junior development job position  
-<strong>Knowledge:</strong> React JS, HTML5, CSS3, Javascript, GIT  
-<strong>Next steps:</strong> NodeJS, MongoDB  
+<strong>Knowledge:</strong> ReactJS, HTML5, CSS3, Javascript, MySQL, MongoDB, NodeJS, GIT  
+<strong>Next steps:</strong> C#  
 
 <strong>More information:</strong>  
 Graduated in Business Administration - Insper, 2015  
