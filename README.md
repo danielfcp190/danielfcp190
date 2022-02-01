@@ -5,13 +5,12 @@
 <strong>Age:</strong> 30 years old  
 <strong>Citizenship:</strong> American and Brazilian 
 
-<strong>Goal:</strong> Achieve a junior development job position  
-<strong>Knowledge:</strong> ReactJS, HTML5, CSS3, Javascript, MySQL, MongoDB, NodeJS, GIT  
-<strong>Next steps:</strong> C#  
+<strong>Goal:</strong> Junior-level Front End web developer 
+<strong>Knowledge:</strong> Next.js, React, HTML5, CSS3, Styled-components, Typescript, Javascript, MySQL, MongoDB, Node.js, GIT  
 
 <strong>More information:</strong>  
 Graduated in Business Administration - Insper, 2015  
-I've worked with restaurant management since graduation  
+I've been working with front end web development using Next.js
 Advanced English, Intermediate Spanish and Fluent Portuguese    
 
 <!---
